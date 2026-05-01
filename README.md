@@ -12,7 +12,7 @@ Inputs iCatcher .txt file, Datavyu frame .csv, and Lookit frame .csv. Pivots inf
 
 Step 2: Combine Files
 
-Combines all pivot files into one large file
+Combines all pivot files into one large file where information is separated per participant.
 
 Step 3: Left right processing
 
