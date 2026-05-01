@@ -8,7 +8,7 @@ summary stats uses final outputs to give included trial information.
 
 Step 1: Pivots
 
-Inputs iCatcher .txt file, Datavyu frame .csv, and Lookit frame .csv. Pivots information to determine looking times left, right, or away. This is based on frame rate from the video.
+Inputs iCatcher .txt file, Datavyu frame .csv, and Lookit frame .csv. Pivots information to determine looking times left, right, or away. This is based on frame rate from the participant's recorded video.
 
 Step 2: Combine Files
 
